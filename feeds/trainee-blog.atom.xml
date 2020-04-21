@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Welcome to my Trainee Journey - Trainee Blog</title><link href="/" rel="alternate"></link><link href="/feeds/trainee-blog.atom.xml" rel="self"></link><id>/</id><updated>2020-04-04T00:00:00+01:00</updated><entry><title>Induction</title><link href="/articles/2020/04/04/Induction/" rel="alternate"></link><published>2020-04-04T00:00:00+01:00</published><updated>2020-04-04T00:00:00+01:00</updated><author><name>JP Sastrodemedjo\</name></author><id>tag:None,2020-04-04:/articles/2020/04/04/Induction/</id><summary type="html">&lt;h3&gt;Week 1 Blog&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Learned how to use &lt;strong&gt;Git&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;tracking&lt;/li&gt;
+&lt;li&gt;adding to the staging area&lt;/li&gt;
+&lt;li&gt;committing changes&lt;/li&gt;
+&lt;li&gt;adding files to remote repositories (github)&lt;/li&gt;
+&lt;li&gt;branching and merging)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Completed &lt;strong&gt;Fundamental of Medical Ethics&lt;/strong&gt; course&lt;/li&gt;
+&lt;li&gt;Completed &lt;strong&gt;IAEA Safety and Quality in RT&lt;/strong&gt; course &lt;/li&gt;
+&lt;li&gt;Read SLRON &lt;strong&gt;Local Rules&lt;/strong&gt;, Policies &amp;amp; Procedures etc. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learned how to generate …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h3&gt;Week 1 Blog&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Learned how to use &lt;strong&gt;Git&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;tracking&lt;/li&gt;
+&lt;li&gt;adding to the staging area&lt;/li&gt;
+&lt;li&gt;committing changes&lt;/li&gt;
+&lt;li&gt;adding files to remote repositories (github)&lt;/li&gt;
+&lt;li&gt;branching and merging)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Completed &lt;strong&gt;Fundamental of Medical Ethics&lt;/strong&gt; course&lt;/li&gt;
+&lt;li&gt;Completed &lt;strong&gt;IAEA Safety and Quality in RT&lt;/strong&gt; course &lt;/li&gt;
+&lt;li&gt;Read SLRON &lt;strong&gt;Local Rules&lt;/strong&gt;, Policies &amp;amp; Procedures etc. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learned how to generate a static site with pelican &amp;amp; markdown (in Visual Studio code)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;adding content&lt;/li&gt;
+&lt;li&gt;changing theme and adding favicon &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;:::python
+def do_twice(func): &lt;br&gt;
+def wrapper_do_twice(&lt;em&gt;args, &lt;/em&gt;&lt;em&gt;kwargs):
+    return func(&lt;/em&gt;args, **kwargs).lower()
+return wrapper_do_twice&lt;/p&gt;
+&lt;p&gt;@do_twice
+def say_whee(some_text):
+    print(some_text)&lt;/p&gt;
+&lt;p&gt;x = 'Whee!'
+say_whee(x)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Week 2 To-do list&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Read HSE Polices + Procedures&lt;/li&gt;
+&lt;li&gt;Python Session with Pat (Wed)&lt;/li&gt;
+&lt;li&gt;Radiation Safety Procedures Q+A (Thurs)&lt;/li&gt;
+&lt;li&gt;Basic Interactions oral exam (Fri)&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trainee Blog"></category><category term="python"></category><category term="markdown"></category><category term="pelican \"></category></entry></feed>
