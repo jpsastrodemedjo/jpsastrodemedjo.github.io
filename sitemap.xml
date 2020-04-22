@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-04-22T08:54:32-00:00</lastmod>
+<lastmod>2020-04-22T18:57:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-04-22T08:54:32-00:00</lastmod>
+<lastmod>2020-04-22T18:57:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-04-22T08:54:32-00:00</lastmod>
+<lastmod>2020-04-22T18:57:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-04-22T08:54:32-00:00</lastmod>
+<lastmod>2020-04-22T18:57:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/search.html</loc>
-<lastmod>2020-04-22T08:54:32-00:00</lastmod>
+<lastmod>2020-04-22T18:57:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,8 +67,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/category/trainee-blog</loc>
+<loc>/category/resources</loc>
 <lastmod>2020-04-22T00:00:00-00:25</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/trainee-blog</loc>
+<lastmod>2020-04-12T00:00:00-00:25</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
